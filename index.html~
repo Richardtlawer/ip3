@@ -12,8 +12,54 @@
 	</head>
 	<body>
 		<div class="jumbotron">
-			<p><h1><strong class="stron">Ping-Pong</strong></p>
+			<p><h1><strong>Ping-Pong</strong></p>
 		</div>
+
+		
+
+		<div class="row">
+			<div class="col-md-4">
+				<p>About Ping Pong:</p>
+				<p>Ping Pong is a game</p>
+				<p>of numbers.</p>
+				<p></p>
+				<p>Created by :</p>
+				<p>Richard Teye </p>
+				<p>Github URL</p>
+				<p><a href="Richardtlawer.github.io/ip3">Richardtlawer.github.io/ip3</a></p>
+				<p>.</p>
+
+
+
+
+
+
+
+
+		
+				
+
+
+
+			</div>
+			<div class="col-md-8">
+				<p>Let's play</p>
+				<p>Rules</p>
+				<p>Enter a number:<input type="text" class="input" placeholder="type a number"></p>
+				<lable class="lable"  >                    <p class="p1">:</p>
+									   <P class="p2">:</p>			     																	
+																		
+          								   <p class="p3">:</p>
+									   <p class="p4">:</p>
+									   <p class="p5">:</p>
+				</lable>
+									
+			</div>			
+		</div>
+		<div class="red">r</div>
+		<div class="yellow">y</div>
+		<div class="green">g</div>
+                
 	</body>
 
 

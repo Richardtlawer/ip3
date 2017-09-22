@@ -1,14 +1,24 @@
-
 .jumbotron{
 	background-color:#f5cba7;
+	padding:0px;
+	margin:0px;
 
 }
+
 strong{
 	text-align:center;
-	//background-color:RGB(245, 203, 167);
 
 
 
 }
 
+.col-md-4{
+	background-color:green;
 
+
+}
+
+.col-md-8{
+	background-color:#D5DBDB;
+
+}

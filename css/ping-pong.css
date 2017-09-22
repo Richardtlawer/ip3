@@ -1,3 +1,36 @@
-h1{
+.jumbotron{
+	background-color:#f5cba7;
+	
+	
 	text-align:center;
+
+
+}
+
+strong{
+	text-align:center;
+
+
+
+}
+
+.col-md-4{
+	background-color:green;
+
+
+}
+
+.col-md-8{
+	background-color:#D5DBDB;
+
+}
+.red{
+	background-color:red;
+
+}.yellow{
+	background-color:yellow;
+
+}.green{
+	background-color:green;
+
 }
