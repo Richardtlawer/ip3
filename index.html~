@@ -44,22 +44,29 @@
 			</div>
 			<div class="col-md-8">
 				<p>Let's play</p>
-				<p>Rules</p>
+				<p>Rules:for rules see below the Righteous Yellow and Go colours</p>
 				<p>Enter a number:<input type="text" class="input" placeholder="type a number"></p>
-				<lable class="lable"  >                    <p class="p1">:</p>
+				<p><lable class="lable"  >                    <p class="p1">:</p>
 									   <P class="p2">:</p>			     																	
 																		
           								   <p class="p3">:</p>
 									   <p class="p4">:</p>
 									   <p class="p5">:</p>
-				</lable>
-									
+				</lable></p>
+				<p><lable>Submit Button:<button class="button" type="submit" name="Submit"></lable></p>					
 			</div>			
 		</div>
-		<div class="red">r</div>
-		<div class="yellow">y</div>
-		<div class="green">g</div>
-                
+		<div class="red">righteous</div>
+		<div class="yellow">yes</div>
+		<div class="green">go</div>
+                <p>Rules: this is a web application that takes a number from a user and returns a range of numbers from 1 to the chosen number with the following exceptions:
+
+Numbers divisible by 3 are replaced with "ping"
+Numbers divisible by 5 are replaced with "pong"
+Numbers divisible by 15 are replaced with "pingpong"
+A user  enters a new number and sees new results over and over again.
+
+</p>         
 	</body>
 
 
