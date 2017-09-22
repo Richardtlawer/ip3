@@ -1,0 +1,33 @@
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <link href="css/bootstrap-theme.min.css" rel="stylesheet" type="text/css">
+    <link href="css/bootstrap.min.css" rel="stylesheet" type="text/css">
+    <link href="css/styles.css"   rel="stylesheet"  type="text/css" >
+    <script src="js/jquery-3.2.1.js"></script>
+    <script src="js/scripts.js"></script>
+    
+    
+    <title>HTML help</title>
+  </head>
+  <body>
+
+   <div class="container">
+       <h1>peek-a-boo</h1>
+	    <p><strong>Peek-a-boo</strong> is an ancient game riddled in mystery and deceit. Though it appears to be an innocent children's pastime, you may change your mind when you learn of its treacherous history.</p>
+
+
+          <div class="walrus-hidden">
+            <p>Let's play peek-a-boo. Click here to see the surprise!</p>
+          </div>
+
+          <div class="walrus-showing">
+            <p>What a cute walrus! Click here to hide her again.</p>
+            <img src="images/images.jpg">
+         </div>
+
+   
+  </body>
+</html>
+   

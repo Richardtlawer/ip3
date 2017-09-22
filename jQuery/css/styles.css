@@ -1,0 +1,81 @@
+h1 {
+    	color:blue;
+        text-align:center;
+}
+
+
+h2 {
+	color:green;
+	font-style:italic;
+	text-align:center;
+}
+
+p {
+	font-family:sans-serif;
+	background-color:orange;
+}
+ p {
+        cursor: pointer;
+        color: #0088cc;
+      }
+
+      p:hover {
+        text-decoration: underline;
+      }
+    
+
+
+ul {
+	line-height:40px;
+	
+}
+
+ /*img {
+   	float:left;
+	width:410px;
+	padding:20px;
+	border:2px solid green;
+	margin:2px;
+        display:none;
+}*/
+
+
+      .walrus-showing {
+        display: none;
+      }
+
+
+
+      .clickable {
+        cursor: pointer;
+        color: #0088cc;
+      }
+
+      .clickable:hover {
+        text-decoration: underline;
+      }
+    
+    
+
+  .row{ 
+		
+		
+		padding:10px;
+		border:2px solid blue;
+		margin:2px;
+                background-color:orange;
+}
+span{	padding:2px;
+	border:3px solid green;
+	background-color:yellow;
+}
+
+.menu{
+	background-color:yellow;
+}
+
+
+      #story {
+        display: none;
+      }
+    

@@ -1,0 +1,137 @@
+
+.plates{
+       float:left;
+}
+
+
+.break{
+	
+        text-align:center;   	
+	width:auto;
+	padding:;
+	border:;
+	margin:;
+        background-image:url('../ip2/assets/backgrounds/landing.jpg');
+}
+
+
+.happy{
+        text-align:center;
+        background-color:#99a3a4;
+}
+
+
+.party{
+       text-align:center;
+       background-color:red;
+
+
+}
+
+
+
+.fastFood1{
+
+           padding:40px;
+}
+
+.fastFood2{
+
+           padding:;
+}
+
+
+
+.view{
+      border:red solid 2px;
+      color:red;
+}
+
+
+.drinks{
+        float:left;
+        width:400px;
+}
+
+.drink{
+       float:;
+       width:;
+}
+
+
+.bowlBack{
+	background-image:url('../ip2/assets/backgrounds/foodsBg.jpg');
+         
+
+}
+.jumbotron{
+
+          background-color:white;
+}
+container{
+          
+          background-color:white;
+}
+.o1 {
+
+    color:red;
+    text-align:center:
+}
+.a1 {
+
+    color:red;
+    text-align:center:
+}
+
+.col-md-1{ 
+         color:red; 
+
+}
+
+
+.lessT{ 
+         color:red; 
+
+}
+
+.greaterT{ 
+         color:red; 
+
+}
+
+
+.subP{ 
+         background-color:red; 
+
+}
+
+
+.subscribe {
+	background-image:url('../ip2/assets/backgrounds/subscribe.jpg');
+        color:white;
+         
+
+}
+
+.col-md-8{
+	border:2px solid white;
+
+}
+
+.col-md-4{ 
+          border:2px solid white;
+          background-color:;
+
+
+}
+
+.footer{
+        background-color:red;
+        color:white;
+
+} 
+.breakfast {
+
+            padding:;
+
+}
