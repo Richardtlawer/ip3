@@ -1,14 +1,17 @@
 $(document).ready(function(){
 
 var numbers=[];
-var numberEntered=$(".input").val();
+var numberEntered=parseInt($(".inReceive").val());
 
-$(".button").click(function(){
-  for(number=1; number<=numberEntered; number++){
+$(".buttonPush").click(function(){
+	alert(numberEntered);
+  for(var number=1; number<=numberEntered.length; number+=1){
         numbers=number;
-  alert(number);      
-};
-  $(".lable").text(numbers.pop());
+  alert(number);
+  $(".showNumbers").text(numbers.pop());
+
+}
+  
 
 });
 
